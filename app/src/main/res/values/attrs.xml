@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnalogniCasovnik">
+        <attr name="sirinaSata" format="integer"/>
+        <attr name="visinaSata" format="integer"/>
+        <attr name="paddingSata" format="integer"/>
+        <attr name="postaviSate" format="integer"/>
+        <attr name="postaviMinute" format="integer"/>
+        <attr name="postaviSekunde" format="integer"/>
+    </declare-styleable>
+
+
+</resources>
